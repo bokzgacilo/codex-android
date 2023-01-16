@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308692802156",
+    "firebase_url": "https://codex-2e3ea-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "codex-2e3ea",
+    "storage_bucket": "codex-2e3ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308692802156:android:04d3c3192283b0431b5649",
+        "android_client_info": {
+          "package_name": "com.example.codex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308692802156-slia0k0r0rdqm3og92q0r5clsevmdkuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtGwM12YJ0-ozs3lVHuEKrObhhQKyCNnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308692802156-slia0k0r0rdqm3og92q0r5clsevmdkuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
